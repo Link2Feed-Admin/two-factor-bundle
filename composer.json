@@ -21,11 +21,11 @@
         "symfony/http-kernel": "~2.6|~3.0|^4.0",
         "symfony/security-core": "~2.6|~3.0|^4.0",
         "symfony/security-http": "~2.6|~3.0|^4.0",
-        "sonata-project/google-authenticator": "~1.0|~2.0",
+        "sonata-project/google-authenticator": "1.0.2",
         "paragonie/random_compat": "~1.0|~2.0"
     },
     "require-dev": {
-        "doctrine/orm": "~2.4,>=2.4.5",
+        "doctrine/orm": ">=2.8.0",
         "phpunit/phpunit": ">=4.8,<6.0",
         "symfony/phpunit-bridge": "~2.7|~3.0|^4.0",
         "symfony/templating": "~2.6|~3.0|^4.0",

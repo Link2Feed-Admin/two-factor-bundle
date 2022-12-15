@@ -2,7 +2,7 @@
 
 namespace Scheb\TwoFactorBundle\Model;
 
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 
 class DoctrinePersister implements PersisterInterface
 {
