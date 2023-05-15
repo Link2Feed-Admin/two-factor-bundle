@@ -18,7 +18,7 @@ In addition to this it provides an interface for implementing your own custom tw
 [![Latest Stable Version](https://poser.pugx.org/scheb/two-factor-bundle/v/stable.svg)](https://packagist.org/packages/scheb/two-factor-bundle)
 [![License](https://poser.pugx.org/scheb/two-factor-bundle/license.svg)](https://packagist.org/packages/scheb/two-factor-bundle)
 
-Security Considerations
+Security Considerations for scheb/two-factor-bundle
 -----------------------
 
 **⚠️ Version 2.x is no longer maintained. Please upgrade your project to a recent version.**
